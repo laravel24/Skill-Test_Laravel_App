@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	background: #e62e00;
+}
+
+.container-fluid{
+	padding-right: 0px !important;
+	padding-left: 0px !important ;
+}
+
+.loginform{
+  width: 100%;
+  margin: auto;
+  padding-top: 40px;
+}
+.loginform h2{
+	font-family: 'Metamorphous', cursive;
+	color: #fff;
+	margin-top: 5%;
+}
+.form{
+	margin-top: 8%;
+	width: 75%;
+	margin: auto;
+	padding-top: 30px;
+}
+.form form label{
+	color: #fff;
+	font-family: 'Metamorphous', cursive;
+	font-size: 16px;
+}
+.form .forgotpass, .form .forgotpass a{
+	color: #fff;
+	font-size: 14px;
+	font-family: 'Metamorphous', cursive;
+}
+
+.erroeclass{
+	list-style: none !important;
+}
+.errorclass li{
+	text-align: left !important;
+}

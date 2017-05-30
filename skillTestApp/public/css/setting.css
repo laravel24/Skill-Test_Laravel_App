@@ -1,0 +1,33 @@
+.main-menu{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: #e62e00;
+}
+.main-menu ul{
+	
+	margin: auto !important;
+}
+.main-menu ul li{
+}
+.main-menu ul li a{
+	padding: 10px 15px;
+	color: #fff;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	border: 1px solid #e62e00;
+}
+.main-menu ul li:hover a{
+	background: #fff;
+	border: 1px solid #e62e00;
+	color: #e62e00;
+}
+
+.userform .form{
+	width: 60%;
+	margin: auto;
+}
+
+.errorclass{
+	list-style: none !important;
+}

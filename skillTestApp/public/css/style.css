@@ -1,0 +1,113 @@
+.navbar-default{
+	background: transparent;
+	border: none;
+}
+.main-menu{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: #e62e00;
+}
+.main-menu ul{
+	
+	margin: auto !important;
+}
+.main-menu ul li{
+}
+.main-menu ul li a{
+	padding: 10px 15px;
+	color: #fff;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	border: 1px solid #e62e00;
+}
+.main-menu ul li:hover a{
+	background: #fff;
+	border: 1px solid #e62e00;
+	color: #e62e00;
+}
+.logout{
+	float: right;
+	text-decoration: none;
+	padding: 10px 15px;
+	background: #cc2900;
+	color: #fff;
+	border: 1px solid  #801a00;
+	display: inline-block;
+}
+.profilepic{
+	margin-top: 1%;
+}
+.personinfo{
+	margin-top: 1%;
+}
+.personinfo ul{
+	list-style: none;
+	padding: 0;
+	width: 70%;
+	margin: auto;
+}
+.personinfo ul li{
+	padding-top: 5px;
+	padding-bottom: 5px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    border-bottom: 1px solid #a6a6a6;
+}
+.personinfo ul li .icon{
+	margin-right: 5%;
+}
+.proimage img{
+	display: block;
+	margin: auto;
+	margin-top: 5%;
+}
+.examList{
+	margin-top: 5%;
+}
+ table th,  table td{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+}
+
+.allList .list{
+	width: 75%;
+	margin: auto;
+	margin-top: 2%;
+}
+.allList h2{
+	font-family: 'Metamorphous', cursive;
+	color: #333333;
+	margin-top: 2%;
+}
+
+.testform{
+	width: 75%;
+	margin: auto;
+}
+.testform form ul{
+	list-style: none;
+	padding: 0;
+}
+.testform form .testqus, .testform form li label{
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+}
+.question{
+	margin-top: 4%;
+}
+.timer{
+	margin-top: 5%;
+}
+.timer p{
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+}
+.skilQuestion h2{
+	font-family: 'Metamorphous', cursive;
+}
+.finish-text{
+	display: none;
+	margin-top: 5%;
+}
